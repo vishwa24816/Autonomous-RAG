@@ -12,10 +12,6 @@ Features
 ### How to get Started?
 
 1. Clone the GitHub repository
-```bash
-git clone https://github.com/Shubhamsaboo/awesome-llm-apps.git
-cd awesome-llm-apps/rag_tutorials/autonomous_rag
-```
 
 2. Install the required dependencies:
 
